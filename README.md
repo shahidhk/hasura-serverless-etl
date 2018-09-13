@@ -1,4 +1,10 @@
-# Serverless ETL demo using Hasura GraphQL Engine Event Triggers and Algolia Search
+# Important: Moved to [hasura/graphql-engine](https://github.com/hasura/graphql-engine/tree/master/community/examples/serverless-etl)
+
+The contents of this repo have been moved to [hasura/graphql-engine](https://github.com/hasura/graphql-engine/tree/master/community/examples/serverless-etl). Please create all issues and pull requests there.
+
+---
+
+## Serverless ETL demo using Hasura GraphQL Engine Event Triggers and Algolia Search
 
 Live demo at https://shahidh.in/hasura-serverless-etl
 
